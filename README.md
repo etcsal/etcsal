@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua! 
+
+Perkenalkan nama saya **Muhamad Faisal**.<br>
+
+Saya seorang **FullStack Developer** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University National Pasim](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+
+Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/etcsaln/)ku ya.
+
